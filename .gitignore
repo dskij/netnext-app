@@ -1,0 +1,6 @@
+# Игнорировать
+node_modules/
+.next/
+.vscode/
+
+
